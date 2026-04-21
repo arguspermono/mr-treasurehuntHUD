@@ -1,2 +1,1 @@
-# mr-logisticsHUD
 # mr-treasurehuntHUD
