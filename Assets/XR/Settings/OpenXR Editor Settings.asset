@@ -16,9 +16,10 @@ MonoBehaviour:
   Values:
   - featureSets:
     - com.meta.openxr.featureset.metaxr
+    - com.microsoft.openxr.featureset.wmr
   - featureSets:
     - com.meta.openxr.featureset.metaxr
   - featureSets:
     - com.microsoft.openxr.featureset.hololens
   m_vulkanAdditionalGraphicsQueue: 0
-  m_vulkanOffscreenSwapchainNoMainDisplay: 1
+  m_vulkanOffscreenSwapchainNoMainDisplay: 0
